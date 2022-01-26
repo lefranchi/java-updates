@@ -1,4 +1,4 @@
-package br.com.lefranchi.java8.newfeatures;
+package br.com.lefranchi.playground;
 
 import java.util.ArrayList;
 import java.util.Iterator;

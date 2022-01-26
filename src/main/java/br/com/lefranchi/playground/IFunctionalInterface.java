@@ -1,4 +1,4 @@
-package br.com.lefranchi.java8.newfeatures;
+package br.com.lefranchi.playground;
 
 @FunctionalInterface
 public interface IFunctionalInterface {
